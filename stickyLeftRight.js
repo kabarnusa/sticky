@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-//<![CDATA[
 $(function(){ // document ready
    if (!!$('#newspro').length) { // make sure "#sticky" element exists
       var el = $('#newspro');
@@ -24,11 +22,7 @@ $(function(){ // document ready
         });
    }
 });
-//]]>
-</script>
 
-<script type='text/javascript'>
-//<![CDATA[
 $(function(){ // document ready
    if (!!$('#sidebar').length) { // make sure "#sticky" element exists
       var el = $('#sidebar');
@@ -53,5 +47,3 @@ $(function(){ // document ready
         });
    }
 });
-//]]>
-</script>
